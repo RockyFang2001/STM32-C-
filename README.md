@@ -1,2 +1,2 @@
-# STM32-C-
+# STM32-C-PlusPlus
 Bare metal development with C++
